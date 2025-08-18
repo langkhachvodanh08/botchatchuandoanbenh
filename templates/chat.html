@@ -1,0 +1,36 @@
+<!-- templates/chat.html -->
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <title>Chatbot tư vấn bệnh cây</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="chat-wrapper">
+    <div class="chat-header">
+      <h2> Tư vấn - Xử lý bệnh trên cây</h2>
+      <a href="{{ url_for('clear') }}" class="clear-btn">Xóa lịch sử</a>
+    </div>
+
+    <div id="chat-box" class="chat-box">
+      {% for m in messages %}
+        {% if m.type == 'image' %}
+          <div class="message user">
+            <img src="{{ url_for('static', filename=m.content) }}" class="chat-image">
+          </div>
+        {% elif m.type == 'text' %}
+          <div class="message bot">
+            <pre>{{ m.content }}</pre>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <form action="{{ url_for('send') }}" method="post" enctype="multipart/form-data" class="chat-form">
+      <input type="file" name="file" accept="image/*" required>
+      <button type="submit">Gửi</button>
+    </form>
+  </div>
+</body>
+</html>

@@ -1,0 +1,78 @@
+{
+  "sau_cuon_la": {
+    "nguyen_nhan": "Bệnh do ấu trùng của loài sâu cuốn lá nhỏ (Cnaphalocrocis medinalis) gây ra. Giai đoạn gây hại: Ấu trùng gây hại mạnh nhất ở giai đoạn lúa đẻ nhánh đến làm đòng.",
+    "dau_hieu": [
+      "Triệu chứng: Ấu trùng nhả tơ cuốn dọc phiến lá lúa lại thành ống, nằm bên trong ăn phần xanh của lá.",
+      "Lá bị hại có những vệt trắng dài, làm giảm diện tích quang hợp của cây lúa.",
+      "Nhiều lá bị cuốn có thể làm cây lúa sinh trưởng kém, đẻ nhánh ít, trổ bông không đều, hạt lép lửng nhiều, giảm năng suất.",
+      "Trong điều kiện thời tiết ẩm ướt và ruộng lúa xanh tốt, sâu cuốn lá có thể phát triển thành dịch.",
+      "Đặc điểm phát sinh và phát triển: Sâu trưởng thành là loài bướm nhỏ, hoạt động vào ban đêm và đẻ trứng rải rác trên lá lúa.",
+      "Ấu trùng có nhiều tuổi, màu xanh nhạt đến xanh đậm, đầu màu nâu vàng.",
+      "Vòng đời của sâu khoảng 3–4 tuần.",
+      "Sâu phát triển mạnh trong điều kiện thời tiết nóng ẩm, mưa nhiều và ruộng lúa bón nhiều phân đạm."],
+      "ten_thuoc": ["Virtako", "Sago Super", "Rynaxypyr"],
+      "lieu_luong": "10-15ml cho bình 16 lít",
+      "huong_dan_phun": "Phun vào sáng sớm hoặc chiều mát, không phun khi trời mưa."
+    },
+    "sau_duc_than": {
+      "nguyen_nhan": "Sâu đục thân là ấu trùng của các loài bướm như Scirpophaga incertulas. Sâu non sau khi nở sẽ chui vào thân cây lúa và đục bên trong làm cản trở sự sinh trưởng bình thường của cây.",
+      "dau_hieu": [
+          "Trên lúa giai đoạn đẻ nhánh: cây bị hại có hiện tượng héo lá, lá vẫn xanh nhưng không phục hồi (gọi là bông héo, hay 'tép rỗng').",
+          "Trên lúa giai đoạn làm đòng - trổ: sâu đục vào trong thân gây hiện tượng bông trắng (bông lúa không trổ hoặc trổ nhưng không có hạt).",
+          "Khi rút thân lúa ra sẽ thấy bên trong thân bị rỗng do sâu ăn, có thể thấy phân sâu hoặc con sâu non màu vàng ngà." ],
+      "ten_thuoc": ["Radiant", "Proclaim", "Abamectin"],
+      "lieu_luong": "8-10ml cho bình 16 lít",
+      "huong_dan_phun": "Phun khi sâu mới xuất hiện, tập trung vào lá non."
+    },
+    "nho_bi_phan_trang": {
+      "nguyen_nhan": "Bệnh phấn trắng trên nho do nấm Uncinula necator gây ra. Nấm phát triển mạnh trong điều kiện thời tiết khô, độ ẩm cao, đặc biệt là ban đêm có sương mù.",
+      "dau_hieu": [
+        "Trên lá: Xuất hiện lớp phấn trắng như bột ở mặt trên của lá, lá bị quăn, cong lại và dần khô đi.",
+        "Trên chồi non: Bị bao phủ bởi lớp phấn trắng, làm chồi ngừng phát triển.",
+        "Trên quả: Xuất hiện lớp phấn trắng, vỏ quả nho bị nứt, dễ bị thối hoặc rụng sớm.",
+        "Cây nhiễm nặng sẽ giảm năng suất và chất lượng quả rõ rệt."    ],
+      "ten_thuoc": ["Ridomil Gold", "Aliette"],
+      "lieu_luong": "25g cho bình 16 lít",
+      "huong_dan_phun": "Phun 2 lần cách nhau 7 ngày, phun đều cả hai mặt lá."
+    },
+    "binh_thuong": {
+      "ten_thuoc": [],
+      "lieu_luong": "",
+      "huong_dan_phun": "Không cần xử lý, cây đang khỏe mạnh."
+    },
+    "nho_binh_thuong": {
+      "ten_thuoc": [],
+      "lieu_luong": "",
+      "huong_dan_phun": "Không cần xử lý, cây nho đang khỏe mạnh."
+    },
+    "tao_binh_thuong": {
+      "ten_thuoc": [],
+      "lieu_luong": "",
+      "huong_dan_phun": "Không cần xử lý, cây nho đang khỏe mạnh."
+    },
+
+    "lua_bi_nam": {
+      "nguyen_nhan": "Bệnh do các loại nấm như Pyricularia oryzae (gây bệnh đạo ôn), Rhizoctonia solani (gây bệnh khô vằn) phát triển mạnh trong điều kiện ẩm độ cao, ruộng rậm rạp, bón thừa đạm.",
+      "dau_hieu": [
+        "Đạo ôn lá: Vết bệnh hình thoi hoặc bầu dục, ở giữa có màu xám trắng, viền nâu đỏ.",
+        "Đạo ôn cổ bông: Cổ bông bị thối đen, bông bị lép hoặc không vào hạt.",
+        "Khô vằn: Xuất hiện vết sọc dài màu nâu, có hình dạng vằn vèo trên bẹ lá và thân lúa.",
+        "Bệnh thường phát triển nhanh trong điều kiện ruộng ẩm thấp, rậm rạp và bón nhiều đạm." ],
+      "ten_thuoc": ["Tilt Super", "Score 250EC", "Validamycin"],
+      "lieu_luong": "15-20ml cho bình 16 lít",
+      "huong_dan_phun": "Phun sớm khi mới xuất hiện triệu chứng, đảm bảo ướt đều toàn bộ tán lá và cổ bông"
+    },
+
+    "tao_bi_phan_trang": {
+      "nguyen_nhan": "Bệnh phấn trắng trên táo do nấm Podosphaera leucotricha gây ra. Nấm tồn tại trong các chồi bệnh từ vụ trước và phát triển mạnh khi thời tiết khô, ấm, ẩm độ cao.",
+      "dau_hieu": [
+      "Lá non bị phủ lớp phấn trắng như bột, lá quăn lại và biến dạng.",
+      "Chồi non và nụ hoa bị hại nặng có thể khô và chết.",
+      "Quả non bị nhiễm sẽ phát triển không đều, biến dạng, nứt vỏ và dễ rụng sớm.",
+      "Bệnh gây ảnh hưởng lớn đến năng suất và chất lượng quả nếu không được phòng trị kịp thời."],
+      "ten_thuoc": ["Score 250EC", "Anvil", "Topsin M"],
+      "lieu_luong": "10-15ml cho bình 16 lít",
+      "huong_dan_phun": "Phun khi mới xuất hiện triệu chứng, lặp lại sau 7–10 ngày nếu bệnh còn phát triển. Phun đều cả mặt trên và dưới lá, chồi và quả non."
+    }
+}
+  
